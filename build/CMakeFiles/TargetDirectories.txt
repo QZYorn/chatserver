@@ -1,0 +1,2 @@
+/home/yorn/project/chat/chatserver/build/src/client/CMakeFiles/ChatClient.dir
+/home/yorn/project/chat/chatserver/build/src/server/CMakeFiles/ChatServer.dir

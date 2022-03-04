@@ -115,6 +115,6 @@ vector<int> GroupModel::queryGroupUsers(int userid, int groupid)
             }
             mysql_free_result(res);
         }
-        return idVec;
     }
+    return idVec;
 }
